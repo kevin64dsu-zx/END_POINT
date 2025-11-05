@@ -39,4 +39,4 @@ Kevin & Grupo 3 Fatec — responsável pelo endpoint, deploy no Render e integra
 O que falta / próximos passos
 - Calibração com amostras reais
 - Persistência de histórico (BD)
-- Alertas externos (SMS/Telegram)
+  
