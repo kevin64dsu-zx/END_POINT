@@ -8,8 +8,7 @@ Projeto MVP para monitoramento de gases (CO e CH₄). Sistema composto por:
 
 Links
 - API (Render): https://end-point-c138.onrender.com
-- UI (Streamlit): <COLE_AQUI_O_LINK_DA_UI>
-
+- UI (Streamlit):https://meupaineldegasesnocivos.streamlit.app/
 Como rodar local (END_POINT)
 1. Abra PowerShell na pasta `END_POINT`.
 2. `python -m venv venv`
